@@ -1,5 +1,4 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-Accomplished CTO with 20+ years of experience. Developing policies for higher efficiency, improved quality and cost optimization.
-Strong knowledge in Software Engineering, Software Architecture and Project Management.
-Leading technical teams for projects in US, Canada, UK and working with partners in other countries to achieve project success.
+Highly experienced and accomplished Chief Technology Officer with over 20 years of success in leading and managing technical teams, developing innovative solutions, and driving business growth. 
+Proven ability to assemble and lead teams, establish system architectures, and establish development processes. Managing projects, working with international teams, and driving technical decisions to improve efficiency and reduce operational costs. 
